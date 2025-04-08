@@ -1,1 +1,2 @@
 # sales_analysis
+This notebook efficiently performs exploratory data analysis (EDA) on a Diwali sales dataset.It begins with data cleaning by removing missing values and unnecessary columns, followed by data transformation.Bar plots are then used to get visual insights into consumer behavior, helping in determining which state, age group, or gender spends the most during the Diwali season.Additionally, it highlights which product categories generate the highest sales.
